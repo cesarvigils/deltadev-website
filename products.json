@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Department Toolkit Bot",
+    "price": 29.99,
+    "image": "assets/img/DeptToolkit.png",
+    "description": "Are you looking for an all-in-one management tool to streamline operations in your department? Whether you're in Law Enforcement (LEO), Fire, EMS, or DOT, our Department Toolkit has everything you need to improve efficiency and organization."
+  },
+{
+  "id": 2,
+  "name": "Staff Management Bot",
+  "price": 25.99,
+  "image": "assets/img/stafftoolkit.png",
+  "description": "Are you looking for an all-in-one management tool to streamline operations for your staff team? Staff V is built for admins, moderators, and support roles in FiveM communities. Manage reports, track staff actions, and automate routine tasks — all in one place. Includes features like ticket logs, staff activity tracking, user moderation, and role-based command access. Improve team response, reduce workload, and stay organized."
+},  
+  {
+    "id": 3,
+    "name": "Community Manager Bot",
+    "price": 19.99,
+    "image": "assets/img/communitybot.png",
+    "description": "Keep your Discord or gaming community running smoothly. Auto-manage welcome messages, custom commands, polls, and rule enforcement. Lightweight, fast, and highly configurable."
+  },
+  {
+    "id": 4,
+    "name": "Moderation Pro Bot",
+    "price": 24.99,
+    "image": "assets/img/modbot.png",
+    "description": "The ultimate tool for moderators. Includes advanced mute/ban/kick systems, strike logs, anti-spam filters, and real-time alerts. Works across multiple channels and roles."
+  },
+  {
+    "id": 5,
+    "name": "Application Hub Bot",
+    "price": 21.99,
+    "image": "assets/img/applicationbot.png",
+    "description": "Accept and manage staff or role applications directly from Discord. Custom forms, status tracking, reviewer access, and automated approvals — all in one clean interface."
+  },
+  {
+    "id": 6,
+    "name": "Auto Ticket Bot",
+    "price": 23.49,
+    "image": "assets/img/ticketbot.png",
+    "description": "A fast and reliable ticketing system for support teams. Handle user reports, complaints, and help requests with logs, categories, and priority levels. Integrates with staff roles automatically."
+  },
+  {
+    "id": 7,
+    "name": "Anti-Raid Shield Bot",
+    "price": 18.99,
+    "image": "assets/img/antiraidbot.png",
+    "description": "Protect your server from mass joins, spam attacks, and bot raids. Real-time detection, lockdown commands, and detailed logging ensure your community stays safe 24/7."
+  },
+  {
+    "id": 8,
+    "name": "Warning System Bot",
+    "price": 17.99,
+    "image": "assets/img/warningbot.png",
+    "description": "Issue, track, and escalate warnings against users. Auto-actions after set thresholds, visible mod logs, and optional user appeals. A must-have for structured moderation."
+  },
+  {
+    "id": 9,
+    "name": "Dispatch Assistant Bot",
+    "price": 24.99,
+    "image": "assets/img/dispatchbot.png",
+    "description": "Light roleplay-friendly dispatch tool for small teams. Assign units, manage active calls, and log responses. Works for security teams, volunteer groups, or tactical roleplay."
+  }
+]
